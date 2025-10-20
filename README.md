@@ -6,6 +6,7 @@
  <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
 
 # A Visitor iOS App for Ness Garden
+Designed for Ness Botanic Garden on the Wirral Peninsula, UK.
 
 ## Overview
 This application is designed for visitors of Ness Gardens, providing detailed information and geographical tagging of plants. It features real-time user location simulation for testing remotely, displays plant and bed locations, and offers a plant favoriting function.
