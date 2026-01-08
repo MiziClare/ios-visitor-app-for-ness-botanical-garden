@@ -47,7 +47,7 @@ The app may require a restart when first run on a new device to function correct
 
 ## Module Specification
 * Year: 2023
-* Lectuer: Mr Jimmieson Phil
+* Lecturer: Mr Jimmieson Phil
 
 ## Module Results
 * Assignment: 96/100 (Thumbnail sizes need to be scaled a little to make them more aesthetically pleasing)
