@@ -2,7 +2,7 @@
   <a href="https://www.liverpool.ac.uk/" target="blank">
     <img src="Liverpool_logo.png" alt="Logo" height="156">
   </a>
- <h1 align="center" style="font-weight: 600">COMP228    App Development</h1>
+ <h1 align="center" style="font-weight: 600">App Development</h1>
  <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
 
 # A Visitor iOS App for Ness Garden
@@ -47,4 +47,3 @@ The app may require a restart when first run on a new device to function correct
 
 ## Module Specification
 * Year: 2023
-* Lecturer: Mr Jimmieson Phil
